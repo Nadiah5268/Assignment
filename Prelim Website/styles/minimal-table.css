@@ -1,7 +1,7 @@
 * { margin: 0; padding: 0; border: none; 
 }
 html {
-  background-color: rgb(200, 248, 250);
+  background-color: rgb(228, 243, 245);
 }
 body {
   margin: 0px;
@@ -10,7 +10,7 @@ body {
   position: fixed;
   width: 15vw;
   height: 100vh;
-  background-color: rgb(132, 216, 219);
+  background-color: rgb(188, 229, 231);
   padding: 10px;
 
 }
@@ -66,4 +66,3 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
-  
