@@ -41,3 +41,13 @@ p {
   font-size: 18px;
   line-height: 2em;
 }
+.reference {
+  text-align: center;
+}
+.resources {
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 2;
+  text-indent: -0.5in;
+  margin-left: 0.5in;
+}
