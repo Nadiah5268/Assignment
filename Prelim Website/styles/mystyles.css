@@ -60,6 +60,14 @@ p {
   font-style: normal;
 }
 
+.image_01 {
+  max-width: 400px;
+}
+
+.image_02 {
+  max-height: 300px;
+}
+
 .topic_subtitle {
   font-size: 25px;
   font-weight: 550;
