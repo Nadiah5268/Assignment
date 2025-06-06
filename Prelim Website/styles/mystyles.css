@@ -51,3 +51,24 @@ p {
   text-indent: -0.5in;
   margin-left: 0.5in;
 }
+
+.text_01 {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.topic_subtitle {
+  font-size: 25px;
+  font-weight: 550;
+}
+
+.topictitle {
+  font-size: 35px;
+  font-weight: 700;
+  background-color: rgb(212, 212, 212);
+  color: black;
+  padding: 20px;
+}
