@@ -1,20 +1,27 @@
-* { margin: 0; padding: 0; border: none; 
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-family: "Inter", sans-serif;
 }
+
 html {
   background-color: rgb(228, 243, 245);
 }
+
 body {
   display: flex;
   margin: 0px;
   align-items: flex-start;
 }
+
 .navbar {
   position: fixed;
   width: 15vw;
   height: 100vh;
   background-color: rgb(188, 229, 231);
   padding: 10px;
-
+  max-width: 200px;
 }
 .main_content {
   margin-left: 16vw;
@@ -46,7 +53,7 @@ p {
 }
 .resources {
   font-size: 18px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   line-height: 2;
   text-indent: -0.5in;
   margin-left: 0.5in;
